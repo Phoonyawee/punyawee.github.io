@@ -1,5 +1,5 @@
 export const personalData = {
-  name: "PUNYAWEE NAMWONG",
+  name: "PHOONYAWEE NAMWONG",
   profile: "/profile.jpg",
   designation: "IT Developer & ERP Systems",
   description:
