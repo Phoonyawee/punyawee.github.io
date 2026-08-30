@@ -9,10 +9,10 @@ export const personalData = {
   address: "Chonburi, Thailand",
   github: "https://github.com/phoonyawee",
   facebook: "",
-  linkedIn: "",
+  linkedIn: "https://th.linkedin.com/in/%E0%B8%9B%E0%B8%B8%E0%B8%93%E0%B8%A2%E0%B8%A7%E0%B8%B5%E0%B8%A3%E0%B9%8C-%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B9%8C-907822317",
   twitter: "",
   stackOverflow: "",
   leetcode: "",
   devUsername: "",
-  resume: "",
+  resume: "/Phoonyawee-Namwong-Resume.pdf",
 };
